@@ -13,4 +13,4 @@ The most challenging part of this project was creating a controllable WebSocket.
 
 But overall, working with WebSockets didn’t seem too difficult to me. It was a pretty interesting experience and project.
 
-Translated with DeepL.com (free version)
+[CLICK TO WATCH DEMO](https://yevhen-srdk.github.io/CryptoRates/)
